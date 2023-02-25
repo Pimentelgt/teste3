@@ -1,0 +1,18 @@
+.sect-team{
+    background-color: #b28756;
+    overflow: hidden;
+    max-width: 900px;
+    margin: auto;
+}
+.sect-team .team-sliders{
+    width: 1000vw;
+    height: 100%;
+}
+.sect-team .team-slider{
+    width: 280px;
+    height: 300px;
+    background-color: #fff;
+    margin-right: 20px;
+    color: #000;
+    display: inline-block;
+}
